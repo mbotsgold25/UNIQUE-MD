@@ -5,12 +5,12 @@ import fs from 'fs'
 
 //Owner Numbers 
 global.owner = [
-  ['923135673658', 'wasi', false],
+  ['212722055011', 'YouGalax', false],
   [''], 
   [''],
 ]
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "212722055011" //put your bot number here
 global.mods = ['923192173398'] 
 global.prems = ['923192173398', '923192173398', '923192173398']
 global.allowed = ['923192173398']
@@ -37,7 +37,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝗪𝗔𝗦𝗜-𝗠𝗗'
+global.botname = 'Mbots Gold'
 global.princebot = '🛡️𝗪𝗔𝗦𝗜 𝗧𝗘𝗖𝗛🛡️'
 global.packname = '𝗪𝗔𝗦𝗜♥️' 
 global.author = '𝗧𝗘𝗖𝗛♥️' 
